@@ -4,7 +4,7 @@ const E2BotKit = formatMessage => ({
         default: 'E2BotKit'
     }),
     extensionId: 'E2BotKit',
-    version: '1.0.0',
+    version: '1.0.1',
     supportDevice: [],
     author: 'MBC-Robot',
     iconURL: `asset/E2BotKit.png`,
