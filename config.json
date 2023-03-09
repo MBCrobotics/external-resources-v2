@@ -2,7 +2,7 @@
     "updater": {
         "default": {
             "provider": "github",
-            "repo": "MBC/external-resources-v2"
+            "repo": "MBCrobotics/external-resources-v2"
         },
         "cn" : {
             "provider": "spaces",
